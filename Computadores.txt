@@ -1,0 +1,13 @@
+Nombre: Juliana
+Apellido: Garcia
+Cedula: 1031940528
+Telefono: 1234
+Semestre: 4
+Promedio: 30.0
+Serial: jfrj
+Marca: hp
+Tamaño: 3.0
+Precio: 2345.0
+Sistema Operativo: Windows 10
+Tipo de Procesador: Intel®Core™i5
+------------------------------------------------------
