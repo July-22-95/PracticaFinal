@@ -1,0 +1,13 @@
+Nombre: Vanessa
+Apellido: Restrepo
+Cedula: 103194
+Telefono: 300803
+Semestre: 2
+Promedio: 3.0
+Serial: a
+Marca: a
+Tamaño: 23.0
+Precio: 124.0
+Sistema Operativo: 2.0
+Tipo de Procesador: 1 TB
+------------------------------------------------------
